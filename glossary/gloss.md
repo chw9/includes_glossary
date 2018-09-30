@@ -1,3 +1,7 @@
+---
+layout: slide
+title: glossary
+---
 # a glossary of text formatting!!!
 
 ### headings
